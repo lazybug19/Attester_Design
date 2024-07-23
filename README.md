@@ -18,10 +18,4 @@ Ensemble models with bayesian hyperparameter tuning:
 ![stack](https://github.com/user-attachments/assets/d42b05f7-764e-47f7-ac1c-11541e382ed0)
 
 ## Key Features
-<ul>
-  <li> Can support 10+ concurrent table processes with 5+ customers in the system </li>
-  <li> POSIX compliant IPC via pipes - named and ordinary </li>
-  <li> Concurrent execution and assignment of tables to new customers </li>
-  <li> Distinct table-waiter pairs and admin-hotelmanager communication via shared memory </li>
-  <li> Hotel manager is responsible for overseeing the total earnings, calculating the total earnings of all the waiters and handling termination </li>
-</ul>
+- ML models were trained on a feature-engineered realistic cyber security [dataset](https://www.kaggle.com/datasets/mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot/data) that covers Ransomware, Man in the middle and SQL Injection attacks, to name a few out of 14 other attacks detected in the IoT and Industrial IoT Perception Layer, gathered from 10 different types of IoT devices. 
