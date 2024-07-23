@@ -4,8 +4,7 @@ Ensemble Modelling based verifier-like Attestation Framework designed for IoT Ne
 ## About
 Attestation entails presenting verifiable evidence to an evaluator to substantiate claims regarding a target’s characteristics, ensuring that the firmware and configuration are reliable, verifying that the hardware is genuine. This paper proposes attestation solutions based on optimized ensemble learning and neural networks to bridge the existing gaps, enhancing security in the device lifecycle.
 
-![image](https://github.com/user-attachments/assets/36221d2d-cc2f-4cab-9130-d4396ef2e447)
-
+![at](https://github.com/user-attachments/assets/ad87bf6d-131e-4754-82e0-b9c8649f1222)
 
 ## Key Features
 <ul>
