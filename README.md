@@ -7,10 +7,10 @@ Attestation entails presenting verifiable evidence to an evaluator to substantia
 ![verifier](https://github.com/user-attachments/assets/ad87bf6d-131e-4754-82e0-b9c8649f1222)
 
 ## Tech Stack Used
-### Maximum Soft Voting Ensemble
+- ### Maximum Soft Voting Ensemble
 ![vote](https://github.com/user-attachments/assets/cbc8f809-3765-492c-9701-acd038e646b0)
 
-### Stack Ensemble
+- ### Stack Ensemble
 ![stack](https://github.com/user-attachments/assets/d42b05f7-764e-47f7-ac1c-11541e382ed0)
 
 ## Key Features
