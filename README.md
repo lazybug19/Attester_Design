@@ -1,8 +1,8 @@
-# Attestation Framework Design
-An ML and DL-based verifier-like attestation framework for multilabel and multiclass malware detection.
+# Remote Attestation Framework
+Ensemble Modelling based verifier-like Attestation Framework designed for IoT Network Security aiding in multilabel and multiclass malware detection.
 
 ## About
-A POSIX-compliant C-based hotel management system supporting multiple concurrent requests for placing orders, calculating income, assigning waiters, and facilitating efficient management among admin, hotel manager, customers, and staff.
+Attestation entails presenting verifiable evidence to an evaluator to substantiate claims regarding a target’s characteristics, ensuring that the firmware and configuration are reliable, verifying that the hardware is genuine. This paper proposes attestation solutions based on optimized ensemble learning and neural networks to bridge the existing gaps, enhancing security in the device lifecycle.
 
 ## Key Features
 <ul>
