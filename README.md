@@ -18,4 +18,6 @@ Ensemble models with bayesian hyperparameter tuning:
 ![stack](https://github.com/user-attachments/assets/d42b05f7-764e-47f7-ac1c-11541e382ed0)
 
 ## Key Features
-- ML models were trained on a feature-engineered realistic cyber security [dataset](https://www.kaggle.com/datasets/mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot/data) that covers Ransomware, Man in the middle and SQL Injection attacks, to name a few out of 14 other attacks detected in the IoT and Industrial IoT Perception Layer, gathered from 10 different types of IoT devices. 
+- ML models were trained on a feature-engineered realistic cyber security [dataset](https://www.kaggle.com/datasets/mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot/data) that covers Ransomware, Man in the middle and SQL Injection attacks, to name a few out of 14 other attacks detected in the IoT and Industrial IoT Perception Layer, gathered from 10 different types of IoT devices.
+- Based on the data analysis of testbed and evaluating the performance of the proposed approaches, the framework promises an accuracy of 93% with 92% precision for detection of compromised IoT device and attack type.
+- Stacking ensemble’s accuracy outperformed CNN model’s accuracy with early stopping callback in terms of multi-label classification which resulted in an accuracy of 81% with 80% precision.
