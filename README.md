@@ -14,8 +14,8 @@ Ensemble models with bayesian hyperparameter tuning:
 ![vote](https://github.com/user-attachments/assets/cbc8f809-3765-492c-9701-acd038e646b0)
 
 - Stack Ensemble
-  
-![stack](https://github.com/user-attachments/assets/d42b05f7-764e-47f7-ac1c-11541e382ed0)
+
+<img width="581" alt="stack" src="https://github.com/user-attachments/assets/b4eb870f-7e7d-4eba-8ef9-9265fea58a1e">
 
 ## Key Features
 - ML models were trained on a feature-engineered realistic cyber security [dataset](https://www.kaggle.com/datasets/mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot/data) that covers Ransomware, Man in the middle and SQL Injection attacks, to name a few out of 14 other attacks detected in the IoT and Industrial IoT Perception Layer, gathered from 10 different types of IoT devices.
