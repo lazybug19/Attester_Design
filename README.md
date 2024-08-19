@@ -1,5 +1,5 @@
 # Remote Attestation Framework
-Ensemble Modelling based verifier-like Attestation Framework designed for IoT Network Security aiding in multilabel and multiclass malware detection.
+Bayesian optimised Ensemble Learning based verifier-like Attestation Framework designed for IoT Network Security aiding in multiclass malware detection.
 
 ## About
 Attestation entails presenting verifiable evidence to an evaluator to substantiate claims regarding a target’s characteristics, ensuring that the firmware and configuration are reliable, verifying that the hardware is genuine. This [paper](https://github.com/lazybug19/Attester_Design/blob/main/Draft.pdf) proposes attestation solutions based on optimized ensemble learning and neural networks to bridge the existing gaps, enhancing security in the device lifecycle.
