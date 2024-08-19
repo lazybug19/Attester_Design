@@ -2,7 +2,7 @@
 Bayesian optimised Ensemble Learning based verifier-like Attestation Framework designed for IoT Network Security aiding in multiclass malware detection.
 
 ## About
-Attestation entails presenting verifiable evidence to an evaluator to substantiate claims regarding a target’s characteristics, ensuring that the firmware and configuration are reliable, verifying that the hardware is genuine. This [paper](https://github.com/lazybug19/Attester_Design/blob/main/Secure%20IoT%20Network%20Attestation%20Framework%20Using%20Ensemble%20Learning.pdf) proposes attestation solutions based on optimized ensemble learning and neural networks to bridge the existing gaps, enhancing security in the device lifecycle.
+Attestation entails presenting verifiable evidence to an evaluator to substantiate claims regarding a target’s characteristics, ensuring that the firmware and configuration are reliable, verifying that the hardware is genuine. This paper proposes attestation solutions based on optimized ensemble learning and neural networks to bridge the existing gaps, enhancing security in the device lifecycle.
 
 <img width="581" alt="stack" src="https://github.com/user-attachments/assets/ad87bf6d-131e-4754-82e0-b9c8649f1222">
 
